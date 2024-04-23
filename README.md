@@ -75,6 +75,5 @@ days_to_check = 7
 
 This configuration will connect to a local Airflow instance, include failed DAG runs in the email notifications, use Gmail's SMTP server for sending emails, and check DAG runs for the last 7 days.
 
-```
 
 This `README.md` file provides instructions on how to install, configure, and use the scripts for monitoring Apache Airflow DAG runs and sending email notifications. You may need to adjust the instructions or add more details based on your specific use case. If you have any questions or need further assistance, feel free to ask!
